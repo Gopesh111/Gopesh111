@@ -8,7 +8,7 @@ open-source projects.
 
 ## 🚀 Open Source Contributions
 
-### 🔹 TheAlgorithms (Java) — ~64.8k ⭐
+### 🔹 TheAlgorithms (Java) — ~65k ⭐
 - ✅ PR merged: *Distance Between Two Points*
 - Implemented algorithm with proper unit tests
 - Followed strict project structure, formatting (clang-format), and CI guidelines  
