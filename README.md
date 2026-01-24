@@ -9,31 +9,34 @@ open-source projects.
 ## 🚀 Open Source Contributions
 
 ### 🔹 TheAlgorithms (Java) — ~65k ⭐
-- ✅ PR merged: *Distance Between Two Points*
+- ✅ **PR merged:** *Distance Between Two Points*
 - Implemented algorithm with proper unit tests
 - Followed strict project structure, formatting (clang-format), and CI guidelines  
 - 🔗 PR: https://github.com/TheAlgorithms/Java/pull/7218
 
 ### 🔹 keon/algorithms (Python) — ~25k ⭐
-- ✅ PR merged: *Surface Area of a Torus*
+- ✅ **PR merged:** *Surface Area of a Torus*
 - Implemented using standard mathematical formulation  
 - 🔗 PR: https://github.com/keon/algorithms/pull/2713
 
-- ✅ PR merged: *Distance Between Two Points (Euclidean Distance)*
+- ✅ **PR merged:** *Distance Between Two Points (Euclidean Distance)*
 - Focused on clarity, correctness, and reusability  
 - 🔗 PR: https://github.com/keon/algorithms/pull/2714
+
+### 🔹 LlamaIndex (Python) — OSS Collaboration
+- Investigated Mem0 memory integration behavior with multiple context identifiers
+- Proposed improvements during PR review discussions with core maintainers
+- Insights contributed to a subsequent refactor merged upstream
 
 ---
 
 ## 💻 Technical Interests
-- Backend Development
-- Data Structures & Algorithms
-- Python & Java Programming
-- Machine Learning & AI
-- Software Engineering
+- Backend Development  
+- Data Structures & Algorithms  
+- Python & Java Programming  
+- Machine Learning & AI  
+- Software Engineering  
 
 ---
 
 📌 Always open to learning, improving, and contributing to meaningful projects.
-
-  
