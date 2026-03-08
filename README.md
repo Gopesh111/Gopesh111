@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gopesh Pandey</h1>
-  <h3>Software Engineer | AI, Machine Learning & Backend Systems</h3>
+  <h3>Building AI, Machine Learning & Backend Systems</h3>
   <p>B.Tech Computer Science (AI & ML) @ VIT-AP University (2022–2026)</p>
 </div>
 
