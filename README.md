@@ -61,9 +61,9 @@ I am a software engineer focused on building low-latency backend systems and pro
 
 ---
 
-### GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Gopesh111&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&v=1" alt="Gopesh's GitHub Stats" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopesh111&theme=dark&hide_border=true&background=0d1117&v=1" alt="Gopesh's GitHub Streak" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Gopesh111&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopesh111&theme=dark&hide_border=true&background=0d1117" alt="" />
 </div>
