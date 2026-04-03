@@ -40,6 +40,10 @@ I am a software engineer focused on building low-latency backend systems and pro
 
 ### Core Infrastructure & Reliability
 
+**Gradio (gradio-app/gradio)**
+- **Engineering:** Resolved a race condition in the `Gallery` component where dynamic image appends caused incorrect `selected_index` clamping. Optimized the reactive `$effect` block in Svelte to prioritize raw `value.length` as the source of truth, ensuring accurate selection state.
+- **Status:** Merged PR (#13178)
+
 **LangChain (langchain-ai)**
 - **Engineering:** Resolved a critical crash in `ChatOllama` caused by malformed JSON during tool calling streams. Wrapped the async generator to catch `ResponseError`, allowing the agent loop to gracefully recover and process raw text instead of hard-failing.
 - **Testing:** Validated recovery logic with comprehensive pytest suites.
@@ -58,7 +62,6 @@ I am a software engineer focused on building low-latency backend systems and pro
 **TheAlgorithms/Java (~65k Stars) & keon/algorithms (~25k Stars)**
 - **Engineering:** Implemented foundational algorithms (Euclidean Distance, Torus Surface Area) in Java and Python. Ensured strict adherence to CI/CD pipelines, `clang-format` standards, and mathematical correctness.
 - **Status:** 3 PRs Merged (#7218, #2713, #2714)
-
 ---
 
 ## GitHub Analytics
